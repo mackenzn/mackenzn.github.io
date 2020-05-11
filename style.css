@@ -1,0 +1,36 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 100px;
+    background-color: #DDAC59;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 30px;
+    padding-top: 20px;
+}
+
+.portfolio {
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    color: #655C5C;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.name {
+    font-family: 'Abel', sans-serif;
+    font-size: 50px;
+    color: #655C5C;
+    text-align: center;
+}
+
+.about {
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    color: #655C5C; 
+    text-align: center;
+    margin-top: 15px;
+}

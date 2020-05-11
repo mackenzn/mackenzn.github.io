@@ -1,0 +1,10 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background-color: #D9B4A4;
+    width: 75vw;
+    margin-left: 25vw;
+}
